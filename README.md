@@ -47,9 +47,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3 Official Documentation">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </a>
-<a href="https://www.postman.com/" target="_blank" title="Postman Official Website">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-</a>
 <a href="https://www.docker.com/" target="_blank" title="Docker Official Website">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </a>
